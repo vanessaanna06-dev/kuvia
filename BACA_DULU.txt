@@ -1,0 +1,19 @@
+KUVIA — Laman web dengan koordinat butang daripada fail eksport pengguna.
+
+1. Ekstrak keseluruhan ZIP.
+2. Buka kuvia_web/index.html dalam Chrome/Edge.
+3. Semua kedudukan eksport menjadi tetapan lalai, termasuk di peranti lain.
+4. Jika pernah membuka versi lama dalam pelayar yang sama, data localStorage kuviaCoordsV7 boleh mengatasi tetapan lalai. Untuk memastikan tetapan eksport digunakan, buka dalam tetingkap Incognito/Private atau padam data laman setempat untuk fail ini.
+5. Mod Laras Butang masih tersedia untuk pembetulan.
+6. Senarai semak guru disimpan secara setempat dalam pelayar, bukan pangkalan data awan.
+7. Audio sintesis pertuturan masih perlu disemak untuk ketepatan sebutan BM.
+
+
+VERSI MUZIK LATAR:
+- Tekan '♫ Main muzik' pada bar atas untuk mula; pelayar tidak membenarkan autoplay tanpa tindakan pengguna.
+- Muzik instrumental asli KUVIA akan berulang sepanjang 52 halaman.
+- Semasa suara suku kata dimainkan, muzik turun ke kira-kira 16% daripada kelantangan muzik yang ditetapkan; pulih selepas audio selesai.
+- Muzik dijeda ketika video dibuka, kemudian kembali apabila video ditutup.
+- Gelangsar Vol mengawal kelantangan muzik (0-50%).
+- Fail muzik_latar_kuvia.wav mesti kekal dalam folder yang sama dengan index.html.
+- Audio suku kata masih menggunakan sintesis suara pelayar dan memerlukan semakan guru.
